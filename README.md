@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">Hi there I'm Arda (MetricsLite) 👋</h3>
+<h3 align="center">Hi there I'm Arda 👋</h3>
 
 ###
 
